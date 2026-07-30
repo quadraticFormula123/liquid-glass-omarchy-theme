@@ -5,11 +5,7 @@ An Apple liquid-glass inspired Omarchy theme with rounded corners, floating wayb
 ## Installation
 
 ```bash
-git clone https://github.com/quadraticFormula123/liquid-glass-omarchy-theme ~/.config/omarchy/themes/liquid-glass-omarchy-theme
-```
-
-```bash
-cp ~/.config/omarchy/themes/liquid-glass-omarchy-theme/waybar.jsonc ~/.config/waybar/config.jsonc && omarchy-restart-waybar
+omarchy install theme https://github.com/quadraticFormula123/liquid-glass-omarchy-theme cp ~/.config/omarchy/themes/liquid-glass-omarchy-theme/waybar.jsonc ~/.config/waybar/config.jsonc && omarchy-restart-waybar
 ```
 
 > **Note**
