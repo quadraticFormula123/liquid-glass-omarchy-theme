@@ -1,4 +1,4 @@
-<img width="2880" height="1800" alt="screenshot-2026-07-30_17-02-16" src="https://github.com/user-attachments/assets/c78fd5d2-1dad-4fb2-9965-37db9364f449" /># Liquid Glass Omarchy Theme
+# Liquid Glass Omarchy Theme
 
 An Apple liquid-glass inspired Omarchy theme with rounded corners, floating waybar translucency and a modern look. 
 
