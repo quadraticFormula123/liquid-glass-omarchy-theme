@@ -3,7 +3,7 @@ window#waybar {
   border: 2px solid #acd8a7;
 }
 * {
-  border-radius: 31px;
+  border-radius: 30px;
   padding: 2px;
   min-height: 0;
   font-family: 'JetBrainsMono Nerd Font';
