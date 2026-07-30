@@ -1,5 +1,4 @@
-@import "../omarchy/current/theme/waybar.css";
-
+@import "/home/elias/.config/omarchy/current/theme/waybar.css";
 window#waybar {
   background: rgba(0, 0, 0, 0.4);
   border: 2px solid #acd8a7;
