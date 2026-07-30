@@ -1,6 +1,7 @@
 window#waybar {
   background: rgba(0, 0, 0, 0.4);
   border: 2px solid #acd8a7;
+  border-radius: 30px;
 }
 * {
   border-radius: 30px;
