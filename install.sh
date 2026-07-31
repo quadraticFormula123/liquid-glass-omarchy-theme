@@ -31,6 +31,8 @@ omarchy-restart-waybar
 omarchy-restart-walker
 omarchy-restart-mako
 omarchy-refresh-hyprlock
-omarchy-refresh-hyprland
+
+# Reload Hyprland without resetting user configs
+hyprctl reload >/dev/null 2>&1 || true
 
 echo "✓ Liquid Glass installed."
