@@ -8,6 +8,7 @@ An Apple liquid-glass inspired Omarchy theme with rounded corners, floating wayb
 omarchy theme install https://github.com/quadraticFormula123/liquid-glass-omarchy-theme
 bash ~/.config/omarchy/themes/liquid-glass-omarchy/install.sh
 ```
+Please run this full command!!! Because install.sh needs to update a few of the features (waybar, wayland, hyprlock etc.). Have a look at the script!!!!
 
 > **Note**
 >
